@@ -1,0 +1,25 @@
+footer{
+    color: white;
+    text-align: center;
+    font-size: 18px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.page{
+    width: 800px; 
+    height: 640px; 
+    background-color: black;
+    border-radius: 15px;
+    display: block;
+}
+.menu_rec{
+    background-color: rgb(12, 12, 12);
+    border: 1px solid white;
+    width: 475px;
+    height: 45px;
+    margin-left: 4px;
+    color: white;
+    font-size: 18px;
+    line-height: 40px;
+    float: left;
+}
